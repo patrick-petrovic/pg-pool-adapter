@@ -1,6 +1,6 @@
 {
   "name": "pg-pool-adapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use knex pool with libraries or frameworks that expect a pg.Pool interface.",
   "main": "./dist/index.js",
   "type": "module",
